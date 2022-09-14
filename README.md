@@ -1,3 +1,6 @@
+![Music player thumbnail](https://user-images.githubusercontent.com/112786435/190064424-a0998abf-75aa-4bda-9b7f-3e823a22e7a7.png)
+
+
 # Music-Player-Webpage
 A music player webpage for listening to audio/music files directly from the web
 
